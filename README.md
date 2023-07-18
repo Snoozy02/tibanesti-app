@@ -1,2 +1,2 @@
-# tibanesti-app
+# odin-app
 Website.
